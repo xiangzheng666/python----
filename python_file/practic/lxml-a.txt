@@ -1,0 +1,171 @@
+登录/注册https://accounts.douban.com/passport/login?source=movie
+下载豆瓣客户端https://www.douban.com/doubanapp/app?channel=top-nav
+豆瓣 https://www.douban.com/doubanapp/app?channel=qipao
+ 全新发布javascript: void 0;
+×https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS
+iPhonehttps://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android
+Androidhttps://www.douban.com
+豆瓣https://book.douban.com
+读书https://movie.douban.com
+电影https://music.douban.com
+音乐https://www.douban.com/location
+同城https://www.douban.com/group
+小组https://read.douban.com/?dcs=top-nav&dcm=douban
+阅读https://douban.fm/?from_=shire_top_nav
+FMhttps://time.douban.com/?dt_time_source=douban-web_top_nav
+时间https://market.douban.com/?utm_campaign=douban_top_nav&utm_source=douban&utm_medium=pc_web
+豆品#more
+豆瓣摄影https://ypy.douban.com
+豆瓣电影https://movie.douban.com
+影讯&购票https://movie.douban.com/cinema/nowplaying/
+选电影https://movie.douban.com/explore
+电视剧https://movie.douban.com/tv/
+排行榜https://movie.douban.com/chart
+分类https://movie.douban.com/tag/
+影评https://movie.douban.com/review/best/
+2019年度榜单https://movie.douban.com/annual/2019?source=navigation
+2019书影音报告https://m.douban.com/standbyme/annual2019?source=navigation
+更多»https://movie.douban.com/annual/2019?source=movie_navigation
+载入中.../explore
+更多»javascript:;
+载入中.../tv
+即将上映»javascript:;
+全部正在热映»./later/
+
+                                    /cinema/nowplaying/
+
+                                https://movie.douban.com/subject/30378158/?from=showing
+秘密访客https://movie.douban.com/subject/30378158/?from=showing
+
+                                    https://movie.douban.com/subject/34768418/?from=showing
+
+                                https://movie.douban.com/subject/34768418/?from=showing
+金禅降魔https://movie.douban.com/subject/33457717/?from=showing
+
+                                    https://movie.douban.com/subject/33457717/?from=showing
+
+                                https://movie.douban.com/subject/30216731/?from=showing
+大红包https://movie.douban.com/subject/30216731/?from=showing
+
+                                    https://movie.douban.com/subject/27131969/?from=showing
+
+                                https://movie.douban.com/subject/27131969/?from=showing
+六月的秘密https://movie.douban.com/subject/34922185/?from=showing
+
+                                    https://movie.douban.com/subject/34922185/?from=showing
+
+                                https://movie.douban.com/subject/30468745/?from=showing
+无名狂https://movie.douban.com/subject/30468745/?from=showing
+
+                                    https://movie.douban.com/subject/34933879/?from=showing
+
+                                https://movie.douban.com/subject/34933879/?from=showing
+奇妙王国之魔...javascript:void(0)
+
+                                    javascript:void(0)
+
+                                https://movie.douban.com/trailer/260785/?from=gallery
+82号古宅https://movie.douban.com/trailer/260785/?from=gallery
+
+                                    https://movie.douban.com/trailer/260791/?from=gallery
+
+                                https://movie.douban.com/trailer/260791/?from=gallery
+亲亲哒https://movie.douban.com/trailer/260748/?from=gallery
+
+            https://movie.douban.com/trailer/260748/?from=gallery
+
+        https://movie.douban.com/trailer/260491/?from=gallery
+
+                    https://movie.douban.com/trailer/260491/?from=gallery
+
+                https://movie.douban.com/trailer/260468/?from=gallery
+
+            https://movie.douban.com/trailer/260468/?from=gallery
+
+        https://movie.douban.com/trailer/260621/?from=gallery
+
+                    https://movie.douban.com/trailer/260621/?from=gallery
+
+                https://movie.douban.com/trailer/260315/?from=gallery
+
+            https://movie.douban.com/trailer/260315/?from=gallery
+
+        /review/best/
+
+                    /review/latest/
+
+                https://movie.douban.com/subject/30401194/?from=reviews
+
+            https://movie.douban.com/review/12495180/
+
+        https://www.douban.com/people/180363105/
+
+                    https://movie.douban.com/subject/30401194/?from=reviews
+
+                https://movie.douban.com/review/12495180/
+
+            https://movie.douban.com/subject/2131459/?from=reviews
+
+        https://movie.douban.com/review/12456676/
+
+                    https://www.douban.com/people/202451644/
+
+                https://movie.douban.com/subject/2131459/?from=reviews
+
+            https://movie.douban.com/review/12456676/
+
+        https://movie.douban.com/subject/27037053/?from=reviews
+
+                    https://movie.douban.com/review/12450717/
+
+                https://www.douban.com/people/1325646/
+
+            https://movie.douban.com/subject/27037053/?from=reviews
+
+        https://movie.douban.com/review/12450717/
+
+                    https://movie.douban.com/subject/30426519/?from=reviews
+
+                https://movie.douban.com/review/12451173/
+更多热门影评»https://www.douban.com/people/laolinghun/
+新片影评»https://movie.douban.com/subject/30426519/?from=reviews
+
+                    https://movie.douban.com/review/12451173/
+
+            https://blog.douban.com/douban/2015/12/18/3060/
+たとえ世界が壊れても、 もう一度、君に会いたい(无论世界如何崩坏，我都想再见你一面)/chart
+计算士卡夫卡君https://movie.douban.com/subject/33434927/
+《你好世界》https://movie.douban.com/subject/33417030/
+(全文)https://movie.douban.com/subject/5327156/
+
+                    https://movie.douban.com/subject/34930803/
+
+            https://movie.douban.com/subject/27092645/
+假如地球没有绿色https://movie.douban.com/subject/33411505/
+一叶草青https://movie.douban.com/subject/34461680/
+《机器人总动员》https://movie.douban.com/subject/30403338/
+(全文)https://movie.douban.com/subject/30401194/
+
+                    https://movie.douban.com/subject/33441983/
+
+            https://www.douban.com/doulist/2943106/
+一位獨立導演的生存方式 - 專訪濱口龍介https://www.douban.com/doulist/3019344/
+何阿嵐https://weibo.com/doubanfilm
+《夜以继日》https://weibo.com/doubanfilm
+(全文)javascript:;
+
+                    https://weibo.com/doubanzui
+
+            https://weibo.com/doubanzui
+《从宫本到你》: 召唤一种日本新电影https://www.douban.com/people/186015655/
+didahttps://www.douban.com/people/186015655/
+《从宫本到你》https://www.douban.com/people/nobodyfilm/
+(全文)https://www.douban.com/people/nobodyfilm/
+豆瓣电影评分八问https://www.douban.com/hnypt/variformcyst.py
+更多榜单»https://www.douban.com/about
+矿民、马夫、尘肺病https://www.douban.com/jobs
+悲惨世界https://www.douban.com/about?topic=contactus
+被涂污的鸟https://www.douban.com/about/legal
+心理测量者3：第一监视者https://help.douban.com/?app=movie
+一个叫小小船的男孩https://www.douban.com/doubanapp/
+从不，很少，有时，总是https://www.douban.com/partner/
